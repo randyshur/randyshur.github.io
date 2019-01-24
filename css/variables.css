@@ -1,0 +1,11 @@
+:root {
+    --lightPurple: #7e7eff;
+    --deepBlue: #000080;
+    --eggPlant: #331254;
+    --lightGreen: #49b675;
+    --darkGreen: #274d62;
+
+    --fancyFont: 'Caveat', cursive;
+    --serifFont: 'Bitter', serif;
+    --sanSerifFont: 'Raleway', sans-serif;
+}

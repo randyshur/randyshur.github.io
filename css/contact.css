@@ -1,0 +1,9 @@
+.centerForm {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Josefin Sans', sans-serif;
+}
+label {
+    font-family: 'Josefin Sans', sans-serif;
+}

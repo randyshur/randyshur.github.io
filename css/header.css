@@ -1,0 +1,44 @@
+.headerBG {
+    background-image: url("../assets/img/ice.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.redLine {
+    position: relative;
+    top: 7px;
+    border: none;
+    border-top: 6px dotted white;
+}
+.redDiv {
+    margin-top: -16px;
+    background-color: red;
+    height: 20px;
+}
+.blueLine {
+    position: relative;
+    top: 7px;
+    border: none;
+    border-top: 6px dotted white;
+    height: 20px;
+}
+.blueDiv {
+    margin-top: -16px;
+    background-color: #020079;
+    height: 20px;
+}
+#blueCircle {
+    position: relative;
+    top: -21px;
+    background: blue;
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    z-index: 2;
+    margin: auto;
+}
+.headline {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
